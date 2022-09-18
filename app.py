@@ -135,7 +135,7 @@ st.write(" ➡️ **Data Cleansing** which I used to process and filter data to 
 st.write(" ➡️ Create a **machine learning** model which I utilized to predict stock prices")
 st.write(" ➡️ Create graphs and visualize data using **matplotlib**")
 st.write(" ➡️ Create an interactive **stream lit** web application which I used to display my model")
-st.write(" ➡️ **Deploy** stream lit application to the internet")
+st.write(" ➡️ **Deploy** stream lit application to the internet using AWS EC2, S3, and Route53")
 st.progress(100)
 st.write("Created by **Amaan Chaudhry** 🔨")
 st.write("Check out my **website** with more of my projects here: [**amaanchau.com**](http://amaanchau.com) 🖥️")
